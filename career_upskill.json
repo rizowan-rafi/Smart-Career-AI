@@ -1,0 +1,669 @@
+[
+    {
+        "career": "Data Scientist",
+        "senior_role": "Senior Data Scientist",
+        "upskill_steps": [
+            "Master Big Data technologies (Spark, Hadoop).",
+            "Advance to prescriptive analytics.",
+            "Lead data strategy."
+        ],
+        "core_skills": [
+            "Machine Learning",
+            "Statistics",
+            "Big Data",
+            "Data Storytelling"
+        ],
+        "recommended_resources": [
+            "Kaggle",
+            "DataCamp",
+            "Towards Data Science",
+            "Google Data Analytics"
+        ]
+    },
+    {
+        "career": "Software Engineer",
+        "senior_role": "Senior Software Engineer",
+        "upskill_steps": [
+            "Master System Design.",
+            "Lead technical architecture.",
+            "Mentor junior engineers."
+        ],
+        "core_skills": [
+            "System Design",
+            "Distributed Systems",
+            "Data Structures",
+            "OOP"
+        ],
+        "recommended_resources": [
+            "LeetCode",
+            "High Scalability Blog",
+            "System Design Primer",
+            "GeeksforGeeks"
+        ]
+    },
+    {
+        "career": "UX Designer",
+        "senior_role": "Senior UX Designer",
+        "upskill_steps": [
+            "Master Design Systems.",
+            "Lead multi-platform user research.",
+            "Facilitate design workshops."
+        ],
+        "core_skills": [
+            "Figma",
+            "Prototyping",
+            "Information Architecture",
+            "Design Systems"
+        ],
+        "recommended_resources": [
+            "Nielsen Norman Group",
+            "UX Collective",
+            "Interaction Design Foundation",
+            "Behance"
+        ]
+    },
+    {
+        "career": "AI Researcher",
+        "senior_role": "Senior AI Researcher",
+        "upskill_steps": [
+            "Deep dive into performance optimization.",
+            "Contribute to organizational technical strategy.",
+            "Publish research."
+        ],
+        "core_skills": [
+            "Deep Learning Theory",
+            "Mathematics",
+            "PyTorch/TensorFlow",
+            "Academic Writing"
+        ],
+        "recommended_resources": [
+            "ArXiv.org",
+            "Papers with Code",
+            "Distill.pub",
+            "NIPS Proceedings"
+        ]
+    },
+    {
+        "career": "Project Manager",
+        "senior_role": "Senior Project Manager",
+        "upskill_steps": [
+            "Transition to Product Management.",
+            "Master strategic portfolio management.",
+            "Negotiate with C-suite."
+        ],
+        "core_skills": [
+            "Agile/Scrum",
+            "Risk Management",
+            "Stakeholder Communication",
+            "Budgeting"
+        ],
+        "recommended_resources": [
+            "PMI.org",
+            "Atlassian University",
+            "Scrum.org",
+            "Harvard Business Review"
+        ]
+    },
+    {
+        "career": "Embedded Systems Engineer",
+        "senior_role": "Senior Embedded Systems Engineer",
+        "upskill_steps": [
+            "Optimize CI/CD for hardware.",
+            "Lead technical architecture for IoT.",
+            "Mentor junior hardware devs."
+        ],
+        "core_skills": [
+            "C/C++",
+            "RTOS",
+            "Microcontrollers",
+            "Hardware Debugging"
+        ],
+        "recommended_resources": [
+            "CircuitDigest",
+            "ARM Developer",
+            "Embedded.com",
+            "Udemy"
+        ]
+    },
+    {
+        "career": "Data Analyst",
+        "senior_role": "Senior Data Analyst",
+        "upskill_steps": [
+            "Learn cloud warehousing (Snowflake).",
+            "Automate data quality monitoring.",
+            "Influence business strategy."
+        ],
+        "core_skills": [
+            "SQL",
+            "Tableau/Power BI",
+            "Exploratory Data Analysis",
+            "Excel Mastery"
+        ],
+        "recommended_resources": [
+            "Google Data Analytics",
+            "Exceljet",
+            "SQLZoo",
+            "Mode Analytics Blog"
+        ]
+    },
+    {
+        "career": "Digital Marketer",
+        "senior_role": "Senior Digital Marketer",
+        "upskill_steps": [
+            "Master marketing automation.",
+            "Deepen analytical skills for ROI.",
+            "Stay ahead of AI trends."
+        ],
+        "core_skills": [
+            "SEO/SEM",
+            "Content Marketing",
+            "Web Analytics (GA4)",
+            "Paid Media"
+        ],
+        "recommended_resources": [
+            "HubSpot Academy",
+            "Moz Blog",
+            "Social Media Examiner",
+            "Google Skillshop"
+        ]
+    },
+    {
+        "career": "NLP Engineer",
+        "senior_role": "Senior NLP Engineer",
+        "upskill_steps": [
+            "Master Transformers and LLMs.",
+            "Implement advanced security in NLP apps.",
+            "Lead LLM research."
+        ],
+        "core_skills": [
+            "Transformers",
+            "Text Processing",
+            "Large Language Models",
+            "SpaCy/NLTK"
+        ],
+        "recommended_resources": [
+            "Hugging Face Course",
+            "Stanford CS224N",
+            "DeepLearning.ai",
+            "NLP Progress"
+        ]
+    },
+    {
+        "career": "Financial Analyst",
+        "senior_role": "Senior Financial Analyst",
+        "upskill_steps": [
+            "Advance to prescriptive finance analytics.",
+            "Lead organizational financial strategy.",
+            "Master VBA/SQL."
+        ],
+        "core_skills": [
+            "Financial Modeling",
+            "Valuation (DCF)",
+            "Corporate Finance",
+            "VBA/SQL"
+        ],
+        "recommended_resources": [
+            "Investopedia",
+            "Wall Street Prep",
+            "Corporate Finance Institute",
+            "Bloomberg Guide"
+        ]
+    },
+    {
+        "career": "Research Scientist",
+        "senior_role": "Senior Research Scientist",
+        "upskill_steps": [
+            "Lead cross-functional research projects.",
+            "Deep dive into domain-specific scalability.",
+            "Mentor researchers."
+        ],
+        "core_skills": [
+            "Hypothesis Testing",
+            "Scientific Method",
+            "MATLAB/R",
+            "Data Visualization"
+        ],
+        "recommended_resources": [
+            "Nature.com",
+            "ScienceDirect",
+            "Google Scholar",
+            "ResearchGate"
+        ]
+    },
+    {
+        "career": "Front-end Developer",
+        "senior_role": "Senior Front-end Developer",
+        "upskill_steps": [
+            "Master performance optimization.",
+            "Lead architectural decisions.",
+            "Maintain design systems."
+        ],
+        "core_skills": [
+            "React/Vue",
+            "CSS Architecture",
+            "TypeScript",
+            "Browser Performance"
+        ],
+        "recommended_resources": [
+            "MDN Web Docs",
+            "Frontend Masters",
+            "CSS-Tricks",
+            "Smashing Magazine"
+        ]
+    },
+    {
+        "career": "Software Developer",
+        "senior_role": "Senior Software Developer",
+        "upskill_steps": [
+            "Lead system design decisions.",
+            "Improve CI/CD pipelines.",
+            "Conduct high-quality code reviews."
+        ],
+        "core_skills": ["Clean Code", "Unit Testing", "Git Workflow", "SDLC"],
+        "recommended_resources": [
+            "Stack Overflow",
+            "Pluralsight",
+            "Refactoring.Guru",
+            "Udemy"
+        ]
+    },
+    {
+        "career": "Machine Learning Engineer",
+        "senior_role": "Senior Machine Learning Engineer",
+        "upskill_steps": [
+            "Master MLOps and Model Deployment.",
+            "Optimize model scalability.",
+            "Lead AI architecture."
+        ],
+        "core_skills": [
+            "MLOps",
+            "Model Deployment",
+            "Feature Engineering",
+            "Scikit-Learn"
+        ],
+        "recommended_resources": [
+            "Machine Learning Mastery",
+            "Made With ML",
+            "AWS ML University",
+            "Fast.ai"
+        ]
+    },
+    {
+        "career": "Marketing Manager",
+        "senior_role": "Lead Marketing Manager",
+        "upskill_steps": [
+            "Master CRM integration.",
+            "Lead multi-channel growth strategies.",
+            "Mentor marketing teams."
+        ],
+        "core_skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Campaign Management",
+            "Public Relations"
+        ],
+        "recommended_resources": [
+            "Harvard Business Review",
+            "AdAge",
+            "Marketing Week",
+            "CXL Institute"
+        ]
+    },
+    {
+        "career": "Full Stack Developer",
+        "senior_role": "Senior Full Stack Developer",
+        "upskill_steps": [
+            "Master Microservices architecture.",
+            "Lead full-stack architecture decisions.",
+            "Optimize database scalability."
+        ],
+        "core_skills": [
+            "Node.js/Express",
+            "Database Design",
+            "Docker/Kubernetes",
+            "API Integration"
+        ],
+        "recommended_resources": [
+            "FreeCodeCamp",
+            "FullStackOpen",
+            "Dev.to",
+            "Codecademy"
+        ]
+    },
+    {
+        "career": "AI Specialist",
+        "senior_role": "Senior AI Specialist",
+        "upskill_steps": [
+            "Master Generative AI architectures.",
+            "Lead ethical AI implementation.",
+            "Mentor AI researchers."
+        ],
+        "core_skills": [
+            "Computer Vision",
+            "Generative AI",
+            "Ethical AI",
+            "Neural Networks"
+        ],
+        "recommended_resources": [
+            "OpenAI Blog",
+            "DeepLearning.ai",
+            "MIT AI Lab",
+            "AI Alignment Forum"
+        ]
+    },
+    {
+        "career": "Cybersecurity Analyst",
+        "senior_role": "Senior Cybersecurity Analyst",
+        "upskill_steps": [
+            "Lead incident response.",
+            "Design enterprise security architecture.",
+            "Manage global compliance."
+        ],
+        "core_skills": [
+            "Penetration Testing",
+            "Network Security",
+            "SIEM Tools",
+            "Cryptography"
+        ],
+        "recommended_resources": [
+            "Hack The Box",
+            "TryHackMe",
+            "OWASP",
+            "SANS Institute"
+        ]
+    },
+    {
+        "career": "Research Analyst",
+        "senior_role": "Senior Research Analyst",
+        "upskill_steps": [
+            "Influence business through data storytelling.",
+            "Master predictive analytics.",
+            "Lead data governance."
+        ],
+        "core_skills": [
+            "Market Intelligence",
+            "Qualitative Research",
+            "SPSS",
+            "Report Writing"
+        ],
+        "recommended_resources": [
+            "Gartner",
+            "Forrester",
+            "Pew Research Center",
+            "Statista"
+        ]
+    },
+    {
+        "career": "DevOps Engineer",
+        "senior_role": "Senior DevOps Engineer",
+        "upskill_steps": [
+            "Lead technical architecture for cloud.",
+            "Optimize CI/CD automation.",
+            "Implement advanced security."
+        ],
+        "core_skills": [
+            "CI/CD Pipelines",
+            "IaC (Terraform)",
+            "Kubernetes",
+            "Cloud Security"
+        ],
+        "recommended_resources": [
+            "A Cloud Guru",
+            "Linux Academy",
+            "HashiCorp Learn",
+            "DevOps.com"
+        ]
+    },
+    {
+        "career": "Graphic Designer",
+        "senior_role": "Senior Graphic Designer",
+        "upskill_steps": [
+            "Maintain scalable UI libraries.",
+            "Lead user research for design.",
+            "Facilitate design workshops."
+        ],
+        "core_skills": [
+            "Typography",
+            "Adobe Creative Suite",
+            "Visual Branding",
+            "Layout Design"
+        ],
+        "recommended_resources": [
+            "Adobe Create",
+            "Dribbble",
+            "Creative Bloq",
+            "Design Council"
+        ]
+    },
+    {
+        "career": "Deep Learning Engineer",
+        "senior_role": "Senior Deep Learning Engineer",
+        "upskill_steps": [
+            "Master GPU Parallelism.",
+            "Optimize Neural Architecture Search.",
+            "Lead technical DL strategy."
+        ],
+        "core_skills": [
+            "Neural Networks",
+            "CNN/RNN/GANs",
+            "GPU Parallelism",
+            "PyTorch"
+        ],
+        "recommended_resources": [
+            "DeepLearning.ai",
+            "Udacity",
+            "Weights & Biases",
+            "TensorFlow Blog"
+        ]
+    },
+    {
+        "career": "Business Analyst",
+        "senior_role": "Senior Business Analyst",
+        "upskill_steps": [
+            "Master predictive business modeling.",
+            "Lead data-driven business strategy.",
+            "Mentor analysts."
+        ],
+        "core_skills": [
+            "BPMN",
+            "Requirement Gathering",
+            "User Stories",
+            "Agile Methodologies"
+        ],
+        "recommended_resources": [
+            "IIBA.org",
+            "Microsoft Learn",
+            "BPM.com",
+            "Modern Analyst"
+        ]
+    },
+    {
+        "career": "Backend Developer",
+        "senior_role": "Senior Backend Developer",
+        "upskill_steps": [
+            "Master Serverless Architecture.",
+            "Lead API security decisions.",
+            "Optimize message queues."
+        ],
+        "core_skills": [
+            "API Security",
+            "Database Management",
+            "Message Queues",
+            "Serverless Architecture"
+        ],
+        "recommended_resources": [
+            "Backend Masters",
+            "Baeldung",
+            "Node.js Patterns",
+            "Roadmap.sh"
+        ]
+    },
+    {
+        "career": "Biostatistician",
+        "senior_role": "Senior Biostatistician",
+        "upskill_steps": [
+            "Master advanced architectural patterns in trials.",
+            "Lead regulatory standards compliance.",
+            "Mentor biostatisticians."
+        ],
+        "core_skills": [
+            "Clinical Trial Design",
+            "Survival Analysis",
+            "R/SAS Programming",
+            "Regulatory Standards"
+        ],
+        "recommended_resources": [
+            "Biostats Community",
+            "SAS Training",
+            "FDA Guidelines",
+            "Johns Hopkins Biostats"
+        ]
+    },
+    {
+        "career": "Data Engineer",
+        "senior_role": "Senior Data Engineer",
+        "upskill_steps": [
+            "Lead technical architecture for pipelines.",
+            "Master Apache Spark/Airflow.",
+            "Mentor data engineers."
+        ],
+        "core_skills": [
+            "ETL/ELT Pipelines",
+            "Apache Spark",
+            "Airflow",
+            "Data Warehousing"
+        ],
+        "recommended_resources": [
+            "Data Engineering Wiki",
+            "Databricks",
+            "Google Cloud Training",
+            "O'Reilly Data Books"
+        ]
+    },
+    {
+        "career": "Content Strategist",
+        "senior_role": "Senior Content Strategist",
+        "upskill_steps": [
+            "Master Marketing Automation.",
+            "Lead multi-channel growth campaigns.",
+            "Stay ahead of AI content personalization."
+        ],
+        "core_skills": [
+            "Editorial Planning",
+            "UX Writing",
+            "Content Audits",
+            "SEO Content"
+        ],
+        "recommended_resources": [
+            "Content Marketing Institute",
+            "Copyblogger",
+            "A List Apart",
+            "GatherContent"
+        ]
+    },
+    {
+        "career": "Automation Engineer",
+        "senior_role": "Senior Automation Engineer",
+        "upskill_steps": [
+            "Lead technical architecture for testing.",
+            "Master performance/stress testing.",
+            "Conduct code reviews for scripts."
+        ],
+        "core_skills": [
+            "Selenium/Cypress",
+            "Performance Testing",
+            "Bug Reporting",
+            "Load Testing"
+        ],
+        "recommended_resources": [
+            "Test Automation University",
+            "Ministry of Testing",
+            "BlazeMeter",
+            "Guru99"
+        ]
+    },
+    {
+        "career": "Mobile Developer",
+        "senior_role": "Senior Mobile Developer",
+        "upskill_steps": [
+            "Lead architectural decisions for mobile apps.",
+            "Optimize app store presence.",
+            "Master mobile UI patterns."
+        ],
+        "core_skills": [
+            "iOS/Android SDK",
+            "React Native/Flutter",
+            "ASO",
+            "Mobile UI Patterns"
+        ],
+        "recommended_resources": [
+            "Apple Developer",
+            "Android Developers",
+            "Kodeco",
+            "Flutter.dev"
+        ]
+    },
+    {
+        "career": "UX Researcher",
+        "senior_role": "Senior UX Researcher",
+        "upskill_steps": [
+            "Lead ethnographic research for products.",
+            "Influence product strategy via research.",
+            "Facilitate workshops."
+        ],
+        "core_skills": [
+            "Usability Testing",
+            "Ethnographic Research",
+            "A/B Testing",
+            "Card Sorting"
+        ],
+        "recommended_resources": [
+            "Maze.co",
+            "UserTesting.com",
+            "Nielsen Norman Group",
+            "UX Mastery"
+        ]
+    },
+    {
+        "career": "Cybersecurity Specialist",
+        "senior_role": "Lead Cybersecurity Specialist",
+        "upskill_steps": [
+            "Design enterprise security architecture.",
+            "Manage disaster recovery strategy.",
+            "Mentor security teams."
+        ],
+        "core_skills": [
+            "Incident Response",
+            "Security Architecture",
+            "Vulnerability Management",
+            "Forensics"
+        ],
+        "recommended_resources": [
+            "Cybrary",
+            "EC-Council",
+            "Dark Reading",
+            "Infosec Institute"
+        ]
+    },
+    {
+        "career": "Cloud Engineer",
+        "senior_role": "Senior Cloud Engineer",
+        "upskill_steps": [
+            "Lead architecture for cloud scaling.",
+            "Optimize CI/CD for cloud.",
+            "Mentor cloud engineers."
+        ],
+        "core_skills": [
+            "AWS/Azure/GCP",
+            "IAM",
+            "Networking",
+            "Serverless Functions"
+        ],
+        "recommended_resources": [
+            "AWS Training",
+            "Microsoft Learn",
+            "Cloud Academy",
+            "Whizlabs"
+        ]
+    }
+]
